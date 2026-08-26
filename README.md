@@ -11,7 +11,7 @@
 
 - 🏳️‍🌈 Participated and became a Front-end Tech Lead at Lacrei Saúde, a social-impact health tech that connects the LGBTQIAPN+ community with inclusive, qualified healthcare professionals. 
 
-- 🦊 I've also built some side projects such as [Notion-portfolio](https://notionportfolio.arualvivan.com), [Yoko!](https://yoko.arualvivan.com/) and [Koda](https://koda.arualvivan.com/).
+- 🦊 I'm also building some side projects such as [Notion-portfolio](https://notionportfolio.arualvivan.com), [Yoko!](https://yoko.arualvivan.com/), [Koda](https://koda.arualvivan.com/), Flowwly and Hangman game.
 
 --
 
