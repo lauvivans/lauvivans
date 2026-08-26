@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=35&duration=1500&pause=1000&color=781AF7&width=435&lines=Hi%2C+I'm+Laura+%E2%98%83%EF%B8%8F)](https://git.io/typing-svg)
 
-I'm a passionate Web Developer with a solid base in Front-End. I'm willing to become a great Full Stack (mid-level) Web Developer
-
 ## What I've been doing 
 - 🎓 Information Systems graduate at Instituto Federal de Santa Catarina (IFSC).
 
