@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=35&duration=1500&pause=1000&color=781AF7&width=435&lines=Hi%2C+I'm+Laura+%E2%98%83%EF%B8%8F)](https://git.io/typing-svg)
 
-## What I've been doing 
 - 🎓 Information Systems graduate at Instituto Federal de Santa Catarina (IFSC).
 
 - 🩺 Participated in a university extension project to develop a web application that automates the triage process in health centers and hospitals using the Django framework.
@@ -13,12 +12,7 @@
 
 - 🦊 I'm also building some side projects such as [Notion-portfolio](https://notionportfolio.arualvivan.com), [Yoko!](https://yoko.arualvivan.com/), [Koda](https://koda.arualvivan.com/), Flowwly and Hangman game.
 
---
-
-You can contact me via [email](mailto:lauvivang@gmail.com)
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/vivan-laura/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/arualvivan)
+- 📩 Reach me at lauvivang@gmail.com
 
 <div>
   <img alt="Hora-de-aventura-gif" height="150" width="150" src="https://i.gifer.com/origin/13/1304437320c45941d4b4ca3995f24a1a_w200.gif">
