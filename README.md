@@ -6,7 +6,7 @@
 - 💵 Additionally, as a contractor, I developed a web system focused on splitting payments between partners. The solution helps companies manage partners, services, and charges, allowing them to pay multiple partners in a single transaction. The system integrates with a payment API.
 - 📚 Also participated in the development of [Estudos Arquivados](https://estudosarquivados.pt/), a website using arquivo.pt API to filter results based on Portuguese students’ academic year and their corresponding subjects. This project utilizes OpenAI’s LLM to identify words and expressions related to the user’s input and apply them as filters in the API to achieve more accurate results.
 - 🏳️‍🌈 Participated and became a Front-end Tech Lead at [Lacrei Saúde](https://lacreisaude.com.br/), a social-impact health tech that connects the LGBTQIAPN+ community with inclusive, qualified healthcare professionals. 
-- 🦊 I'm also building some side projects such as [Notion-portfolio](https://notionportfolio.arualvivan.com), [Yoko!](https://yoko.arualvivan.com/), [Koda](https://koda.arualvivan.com/), [Haru](https://haru.arualvivan.com/) and [Nori](https://nori.arualvivan.com/).
+- 🦊 I'm also building some side projects such as [Notion-portfolio](https://notionportfolio.arualvivan.com), [Yoko!](https://yoko.arualvivan.com/) and [Haru](https://haru.arualvivan.com/).
 - 📩 Reach me at lauvivang@gmail.com
 
 <div align="center">
